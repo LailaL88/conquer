@@ -514,11 +514,11 @@ i {
 
 @media only screen and (max-width: 360px){
 	section {
-		width:106%;
+		width:100%;
 	}
 
 	.third{
-		width:106%;
+		width:100%;
 	}
 	
 	.column{
