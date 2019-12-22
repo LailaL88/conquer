@@ -9,7 +9,7 @@ function toggleMenu() {
 
 function smoothScroll(){
 	var element = document.querySelector("#section1");
-element.scrollIntoView({ behavior: 'smooth', block: 'start'});
+element.scrollIntoView({ behavior: 'smooth'});
 }
 
 function smoothScroll1(){
