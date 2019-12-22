@@ -590,3 +590,6 @@ i {
 	}
 }
 
+.first a {
+	cursor:pointer;
+}
