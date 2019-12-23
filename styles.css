@@ -45,12 +45,12 @@ nav a:hover {
 }
 
 .first {
-	background-size: 100% 100%;
+	/*background-size: 100% 100%;
 	background-image: url("./img/bg-1.jpg");
 	 background-position: center center;
 	 background-attachment: fixed;
 	 background-size: cover;
-	 background-repeat: no-repeat;
+	 background-repeat: no-repeat;*/
 	height: 605px;
 }
 
@@ -214,7 +214,7 @@ h1 {
 }
 
 
-.fourth{
+/*.fourth{
 	background-image: url("./img/bg-2.jpg");
 	 background-position: center center;
 	 background-attachment: fixed;
@@ -222,7 +222,7 @@ h1 {
 	 background-repeat: no-repeat;
 	
 }
-
+*/
 .fourth h2 {
 	padding-top: 90px;
 	font-size: 30px;
@@ -319,12 +319,12 @@ h1 {
 
 .seventh {
 	margin-top: 70px;
-	background-image: url(img/bg-3.jpg);
+	/*background-image: url(img/bg-3.jpg);
 	background-size: 100% 100%;
 	 background-position: center center;
 	 background-attachment: fixed;
 	 background-size: cover;
-	 background-repeat: no-repeat;
+	 background-repeat: no-repeat;*/
 	 overflow: hidden;
 }
 
