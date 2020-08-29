@@ -26,3 +26,4 @@ function smoothScroll3(){
 	var element = document.querySelector("#section7");
 element.scrollIntoView({ behavior: 'smooth', block: 'start'});
 }
+
